@@ -1,0 +1,8 @@
+1. su - --> to enter root
+2. whoami --> to know where you are
+
+in case an authentication error appears:
+1. sudo passwd root
+'put your new password'
+2. to block it again just put
+sudo passwd -dl root

@@ -1,0 +1,4 @@
+to run it:
+first run signal.exe
+
+in another terminal put ps -af and execute MyKill.c 2 "here you put the id of the signal running"

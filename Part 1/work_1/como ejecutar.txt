@@ -1,0 +1,14 @@
+antes de ejecutar el makfile 
+primero debes poner lo siguiente 
+
+g++ main.cpp OStools.cpp
+enter 
+ls 
+enter 
+nano
+escribir codigo makefile 
+guardar como makefile 
+ls 
+enter 
+./output 
+make clean 

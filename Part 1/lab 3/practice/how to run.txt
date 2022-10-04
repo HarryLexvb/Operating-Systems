@@ -1,0 +1,10 @@
+in a terminal:
+mkfifo myinfo ->> create info
+run fifo.write.exe
+
+in another terminal
+run fifo_read.exe
+
+to create ios .exe is:
+C: gcc -o name.exe name.c
+C++: g++ -o name.exe name.cpp
