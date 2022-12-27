@@ -1,0 +1,10 @@
+ipcs 
+copiamos cualquier llave, por ejemplo 0x1111
+gcc -o sem.exe semaphore.c
+./sema.exe 
+camibar el valor de la semaphora
+GGHHgcc -o sem.exe semaphore.c
+./sem.exe
+
+
+el tiempo pasa, no es justo, espero que lo hayas a pasado bien y ya sabes que siempre estaremos para ti en lo que necesites, 

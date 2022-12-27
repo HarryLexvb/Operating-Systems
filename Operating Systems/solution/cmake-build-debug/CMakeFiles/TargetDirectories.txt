@@ -1,0 +1,3 @@
+/home/harrylex/Documentos/proyectos en Clion/solution/cmake-build-debug/CMakeFiles/solution.dir
+/home/harrylex/Documentos/proyectos en Clion/solution/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/harrylex/Documentos/proyectos en Clion/solution/cmake-build-debug/CMakeFiles/rebuild_cache.dir

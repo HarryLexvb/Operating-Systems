@@ -1,0 +1,19 @@
+en la carpeta /home/harrylex
+copiar el codigo grande con el nombre de mychardev.c 
+luego copiamos el makefile 
+modificar el makefile con el del primer link 
+
+obj-m += mychardev.o 
+ 
+PWD := $(CURDIR) 
+ 
+all: 
+	make -C /lib/modules/$(shell uname -r)/build M=$(PWD) modules 
+ 
+clean: 
+	make -C /lib/modules/$(shell uname -r)/build M=$(PWD) clean
+
+explicar el codigo de mychardev
+
+https://sysprog21.github.io/lkmpg/#hello-world  -> instlar los modulos tienes que hacer desde el kernel  
+https://olegkutkov.me/2018/03/14/simple-linux-character-device-driver/       -> instala mychardev

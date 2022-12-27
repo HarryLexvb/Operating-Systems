@@ -1,0 +1,7 @@
+for the lab
+1. enter root user
+2. write nano in terminal
+3. run the code
+4. save the code with a name and compile
+
+you don't necessarily have to do it as root since it also works if you save it in the desired folder

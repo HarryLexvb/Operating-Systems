@@ -1,0 +1,4 @@
+type in a terminal:
+>> makeclean
+>> make
+>> ./run

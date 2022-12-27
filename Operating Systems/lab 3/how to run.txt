@@ -1,0 +1,9 @@
+1st terminal
+mkfifo data --> create the fifo
+ls -ls --> show what's there
+echo "July" > data ---> send info to a file
+
+
+2nd terminal
+ls -ls --> show what's there
+cat data --> to read the file

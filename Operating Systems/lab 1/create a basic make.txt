@@ -1,0 +1,10 @@
+sudo apt-get install make
+you enter 'nano'
+write the make code
+save with the name makefile
+put .h/name there you replace name with the name of the file and that's it
+
+https://hernandis.me/2017/03/20/como-hacer-un-makefile.html
+
+
+

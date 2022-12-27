@@ -1,0 +1,8 @@
+gcc -o sendMQ.exe '04.002 ipc_msgq_send.c' 
+./sendMQ.exe 
+escribes el mensaje
+gcc -o readMQ.exe '04.001 ipc_msgq_rcv.c' 
+./readMQ.exe 
+muestra el mensaje 
+ipcs 
+

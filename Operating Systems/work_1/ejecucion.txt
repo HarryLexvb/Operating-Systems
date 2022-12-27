@@ -1,0 +1,2 @@
+en una terminal ejecutar ./signal.exe
+en otra terminal poner ps -af, ubicas el ID de ejecucion  y ejecutar ./mykill 'ID de la ejecucion' 2 

@@ -1,0 +1,11 @@
+crear ejecutable  cada uno 
+ejecutar os 4
+
+buscar con
+ps -af
+kill -2 "ide de p1"
+
+siempre se mata al primer proceso 
+
+
+

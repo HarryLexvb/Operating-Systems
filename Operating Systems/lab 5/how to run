@@ -1,0 +1,2 @@
+open the terminal and put
+g++ -o thread.exe -pthread thread.cpp

@@ -1,0 +1,9 @@
+make clean
+sudo rmmod mychardev
+make
+sudo insmod mychardev.ko
+echo "argentina ganara el mundial!!!" > /dev/mychardev-1
+echo "666" > /dev/mychardev-1
+head -n1 /dev/mychardev-1 
+
+

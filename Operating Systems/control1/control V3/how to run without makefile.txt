@@ -1,0 +1,8 @@
+ fully functional
+ 
+ open terminal 1
+    $ mkfifo fifo
+    $ ech "3" > fifo
+ open terminal 2
+    $ g++ -o main.exe main.cpp
+    $ ./main.exe
